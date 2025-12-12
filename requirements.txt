@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+transformers
+pandas
+numpy
+Pillow
+scikit-learn
+whisper
+openai-whisper
+sentencepiece
